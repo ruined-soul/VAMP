@@ -1,8 +1,4 @@
-# COPYRIGHT (C) 2021 BY LEGENDX22
-"""
-"""
-# MADE BY LEGENDX22 🔥
-# MY IDEA H YRR DONT KANG THIS PLEASE
+
 import asyncio
 import os
 import asyncio
